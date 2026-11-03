@@ -23,4 +23,11 @@ Before you can practice hacking techniques, you need to set up your environment.
 <img width="1920" height="1020" alt="Metasploitable2 - Linux - Personal - Microsoft​ Edge 28_10_2026 14_49_47" src="https://github.com/user-attachments/assets/0d9bbef8-908c-4ab0-a88a-3e761c04c4b6" />
 
 
+## STEP - 2 Launch DVWA on  Low-Level Command Injection
+
+<img width="1920" height="1020" alt="Damn Vulnerable Web App (DVWA) v1 0 7 __ Welcome and 1 more page - Personal - Microsoft​ Edge 28_10_2026 14_50_30" src="https://github.com/user-attachments/assets/f64147cb-374b-4ce6-b9b6-4c27e065de11" />
+<img width="1920" height="1020" alt="Damn Vulnerable Web App (DVWA) v1 0 7 __ Welcome and 1 more page - Personal - Microsoft​ Edge 28_10_2026 14_50_53" src="https://github.com/user-attachments/assets/00978c3d-f8eb-4c95-8651-fed58f6634ba" />
+
+
+
 
