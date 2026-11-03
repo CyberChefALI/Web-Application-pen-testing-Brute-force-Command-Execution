@@ -16,6 +16,10 @@ You will use a practice app (DVWA) to test exploits across four security levelsâ
 
 ## STEP - 1  Setup Metasploit & DVWA
 
+Objective: Identify and exploit a low-level command injection vulnerability.
+
+
+
 Before you can practice hacking techniques, you need to set up your environment. This involves launching DVWA (your vulnerable practice target) and preparing Metasploit (the industry-standard penetration testing toolkit used to exploit flaws and manage attacks).
 
 <img width="1920" height="991" alt="meta  Running  - Oracle VirtualBox 28_10_2026 14_39_22" src="https://github.com/user-attachments/assets/01fadeff-4967-4780-bb33-7c150388f8bf" />
