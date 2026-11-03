@@ -11,7 +11,7 @@ You will use a practice app (DVWA) to test exploits across four security levelsâ
 ## Prerequisites
 
 * Ensure you have DVWA installed and running.
-* Familiarize yourself with BurpSuite and the FoxyProxy extension for effective testing.
+* Familiarize yourself with Metasploit.
 
 
 ## STEP - 1  Setup Metasploit & DVWA
